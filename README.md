@@ -4,13 +4,7 @@ A responsive beauty salon website built with WordPress and the free Astra theme.
 
 > The treatments, prices and opening hours are sample content for a portfolio project. Add your own contact details before using it for a real business.
 
-## Screenshots
-Add images to `docs/screenshots/` and link them here, for example:
 
-```
-![Home](docs/screenshots/home.png)
-![Services](docs/screenshots/services.png)
-```
 
 ## Features
 - Responsive layout for desktop, tablet and phone
